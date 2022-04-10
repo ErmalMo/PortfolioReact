@@ -1,0 +1,49 @@
+.webComponentContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+.WebProjectPic{
+    margin-top: 45px;
+    width: 20%;
+    margin-left: 40%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.webProject{
+    width: 50%;
+    margin-left: 25%;
+    border:2px solid white;
+    margin-bottom: 40px;
+    background-color: #1f2833;
+    box-shadow: 25px 5px 5px #c5c6c7;
+}
+.webLinkProject{
+    color: #c5c6c7;
+}
+.webTitleProject{
+    color:#c5c6c7;
+    text-overflow: clip;
+}
+.webComponentSummary{
+    color: #C5C6C7;
+    text-align: center;
+}
+.webHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #C5C6C7;
+    font-size: 45px;
+    
+}
+.webBottom{
+    border: 2px solid #45A29E;
+    width: 20%;
+    margin-left: 40%;
+    margin-bottom: 50px;
+}
