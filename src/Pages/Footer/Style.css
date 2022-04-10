@@ -1,0 +1,26 @@
+.footer {
+    
+    display: block;
+    box-sizing: border-box;
+    height: 200px;
+    background-color: #1f2833;
+    clip-path: ellipse(52% 100% at 48% 100%);
+}
+.footerGithubDiv{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* z-index: -1; */
+}
+.content{
+    z-index: -1;
+}
+.footerEmail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}

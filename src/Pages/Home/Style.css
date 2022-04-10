@@ -1,0 +1,43 @@
+.homeName{
+    font-size: 3rem; 
+    font-size: 9vw;
+    font-weight: 100;
+    margin: 0;
+    color: #45A29E;
+    text-align: center;
+}
+.homeJou{
+    font-family: "Josefin Sans",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.125em;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 1.25;
+    margin: 3rem 0;
+    color: #C5C6C7;
+    width: 80%;
+    margin-left: 10%;
+}
+.homeAvatarContainer{
+     width: 20%;
+    margin-left: 40%;
+}
+.homeAvatar{
+    border-radius: 50%;
+    width: 80%;
+    margin-left: 10%;
+}
+.homeSpeech{
+    color:#C5C6C7;
+    font-size: 18px;
+    width: 36%;
+    margin-left: 32%;
+    text-align: center;
+}
+.homeHoverMe{
+    visibility: hidden;
+}
+.homeHoverMe:hover{
+    visibility: visible;
+}

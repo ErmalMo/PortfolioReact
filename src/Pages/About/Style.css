@@ -1,0 +1,25 @@
+/* h1 className='aboutHeader'>About</h1>
+        <p className='aboutMeText'> */
+
+.aboutHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #C5C6C7;
+    font-size: 45px;
+}
+.aboutBottom{
+    border: 2px solid #45A29E;
+    width: 20%;
+    margin-left: 40%;
+}
+.aboutMeText{
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    margin-left: 35%;
+    align-items: center;
+    text-align: center;
+    color: #C5C6C7;
+    font-size: 20px;
+}
